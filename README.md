@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemlatanayak" alt="hemlatanayak" /></a> </p>
 
-- 🔭 I’m currently working on **Docter Paitent Appointment System**
+- 🔭 I’m currently working on project  **Docter Paitent Appointment System**
 
 - 🌱 I’m currently learning **React JS**
 
